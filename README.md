@@ -17,7 +17,11 @@
   <a href = "mailto:HandersonLuc@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/handerson-lucena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/HandersonLuc/HandersonLuc/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HandersonLuc/HandersonLuc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HandersonLuc/HandersonLuc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HandersonLuc/HandersonLuc/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--- Icons's linguages here or in devicons.dev, for social media dev.to
   <img align="center" alt="Hand-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
