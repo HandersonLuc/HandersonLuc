@@ -3,10 +3,12 @@
 - 🌱 I’m currently learning computer science in Universidade Federal do Fluminense and I'm learning about Python and JavaScript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a chess player, I'm learning philosophy.
+
+
+### GitHub Stats:  
 ##
 [![HandersonLuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandersonLuc&show_icons=true&theme=transparent)](https://github.com/HandersonLuc/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandersonLuc&show_icons=true&theme=transparent&layout=compact)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Hand-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
