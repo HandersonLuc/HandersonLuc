@@ -1,8 +1,8 @@
 ### Hi there, I'm HandersonLuc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 ## 
-- 🌱 I’m currently learning computer science in Universidade Federal do Fluminense and I'm learning about Python and JavaScript
+- 🌱 I’m currently learning computer science in Universidade Federal do Fluminense
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a chess player, I'm learning philosophy.
+- ⚡ Fun fact: I'm a chess player.
 
 
 ### GitHub Stats:  
