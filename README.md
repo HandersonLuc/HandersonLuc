@@ -8,7 +8,6 @@
 ### GitHub Stats:  
 ##
 [![Handerson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HandersonLuc&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HandersonLuc&theme=gotham&hide_border=true)](https://git.io/streak-stats)
 [![HandersonLuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandersonLuc&show_icons=true&theme=transparent)](https://github.com/HandersonLuc/github-readme-stats)
 
 <h2 align="center"><i>H A R D&emsp;S K I L L S &emsp;</i></h2>
@@ -22,8 +21,11 @@
   <img align="center" alt="Hand-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
+
+
+
 <div align="center">
-<br><p align="centre"><b>Contador de visitantes</b></p>  
+<br><p align="center"><b>Contador de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{HandersonLuc}/count.svg" /></p> 
 <br></div>
 
