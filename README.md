@@ -22,6 +22,11 @@
   <img align="center" alt="Hand-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Contador de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HandersonLuc}/count.svg" /></p> 
+<br></div>
+
 <h2 align="center"> <i>C O N T A C T</i></h2> 
 <div align = "center" > 
   <a href="https://instagram.com/handerson_luc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
