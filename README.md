@@ -8,11 +8,7 @@
 ### GitHub Stats:  
 ##
 [![Handerson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HandersonLuc&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![HandersonLuc's GitHub stats](https://github-readme-stats.vercel.app/api?username=HandersonLuc&show_icons=true&theme=transparent)](https://github.com/HandersonLuc/github-readme-stats)
-
 <h2 align="center"><i>H A R D&emsp;S K I L L S &emsp;</i></h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HandersonLuc&show_icons=true&theme=transparent&layout=compact)
 <div style="display: inline_block"><br>
   <img align="center" alt="Hand-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hand-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -24,10 +20,6 @@
 
 
 
-<div align="center">
-<br><p align="center"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{HandersonLuc}/count.svg" /></p> 
-<br></div>
 
 <h2 align="center"> <i>C O N T A C T</i></h2> 
 <div align = "center" > 
