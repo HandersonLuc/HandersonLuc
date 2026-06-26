@@ -2,7 +2,6 @@
 ## 
 - 🌱 I’m currently learning computer science in Universidade Federal do Fluminense
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a chess player.
 
 
 ### GitHub Stats:  
