@@ -6,7 +6,6 @@
 
 ### GitHub Stats:  
 ##
-[![Handerson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HandersonLuc&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2 align="center"><i>H A R D&emsp;S K I L L S &emsp;</i></h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hand-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
