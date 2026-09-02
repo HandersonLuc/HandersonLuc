@@ -6,7 +6,7 @@
 
 ### GitHub Stats:  
 ##
-<h2 align="center"><i>H A R D&emsp;S K I L L S &emsp;</i></h2>
+<h2 align="center">H A R D&emsp;S K I L L S &emsp;</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hand-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hand-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
