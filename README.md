@@ -1,43 +1,56 @@
-### Hi there, I'm HandersonLuc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-## 
-- 🌱 I’m currently learning computer science in Universidade Federal do Fluminense
-- 😄 Pronouns: He/Him
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"
+/>
 
-
-### GitHub Stats:  
-##
-<h2 align="center">H A R D&emsp;S K I L L S &emsp;</h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Hand-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Hand-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Hand-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hand-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hand-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?color=ADD8E6&size=35&center=true&vCenter=true&width=1000&lines=Handerson+Lucena+Castro;Seja+bem-vindo(a)!"
+      alt="Apresentação de Handerson de Lucena"
+    />
+  </a>
 </div>
 
+<br>
 
-
-
-
-<h2 align="center"> <i>C O N T A C T</i></h2> 
-<div align = "center" > 
-  <a href="https://instagram.com/handerson_luc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:HandersonLuc@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/handerson-lucena" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=py,html,css,js,ts,java"
+      alt="Linguagens e ferramentas"
+    />
+  </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HandersonLuc/HandersonLuc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HandersonLuc/HandersonLuc/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HandersonLuc/HandersonLuc/output/github-contribution-grid-snake.svg">
-</picture>
+<br>
 
-<!--- Icons's linguages here or in devicons.dev, for social media dev.to
-  <img align="center" alt="Hand-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Hand-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Hand-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Hand-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Hand-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hand-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Hand-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"
---->
+<div align="center">
+  <img
+    src="metrics.plugin.languages.svg"
+    alt="Linguagens mais usadas"
+  />
+</div>
+
+<br><br>
+
+<h3 align="center">
+  ──────────── A C T I V I T Y ────────────
+</h3>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=HandersonLuc&theme=github-dark-blue&hide_border=true&locale=pt_BR&v=3"
+    alt="Estatísticas de sequência de contribuições"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HandersonLuc&theme=github_dark"
+    alt="Gráfico de atividade de Handerson de Lucena"
+  />
+</div>
